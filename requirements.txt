@@ -1,0 +1,1 @@
+python-bmp-generator==0.1.0
