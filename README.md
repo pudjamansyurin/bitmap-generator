@@ -49,6 +49,12 @@ You can run the script from the command line and specify the image dimensions an
     python main.py
     ```
 
+### Example Outputs
+
+This is example output for default parameters.
+
+![1080x2376-20](zebra-1080x2376-20.bmp)
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. If you encounter any issues or have suggestions, please open an issue on GitHub.
